@@ -1,2 +1,2 @@
-# Teste Repositorio
-Primeiro Repositório no Git
+# Teste Repositório
+Primeiro Repositório no Git para teste.
